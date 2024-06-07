@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cas de test test authentification cas non passant username invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1db38e6a-ee46-4553-bf10-d8d66c5de800</testCaseGuid>
+</TestCaseEntity>
